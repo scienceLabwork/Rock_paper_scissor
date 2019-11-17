@@ -1,2 +1,12 @@
-#READ ME
-This is a simple game of rock paper scissor in Terminal. If you are feeling bored while doing your work then play this game and score more points than computer.
+# mathsTable
+Maths Table Calculator. You can calculate table for any Number. This is a simple and easy. Follow install step to install it simply
+
+
+# How to install
+
+simple type this command in terminal
+
+`git clone https://github.com/scienceLabwork/mathsTable`
+
+# My webpage
+[sciencelabwork](http://www.sciencelabwork.cf)
