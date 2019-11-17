@@ -16,7 +16,7 @@ for i in range(100):
     time.sleep(0.1)
     update_progress("Loading game resource", i/100.0)
 update_progress("Loading game resource", 1)
-userResponseL = input('\n  WELCOME TO ROCK PAPER GAME, \n Press ENTER to start the game ')
+userResponseL = input('\n  WELCOME TO ROCK PAPER GAME, \n Type anything to start the game ')
 userResponse = userResponseL.lower()
 point = 0
 Tround = 0
